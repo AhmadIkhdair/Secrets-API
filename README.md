@@ -1,8 +1,8 @@
-# Random Activity Generator
+# Secrets API
 
 ## Description
 
-This is a small challenge to practice the use of API's. Secrets API by the App Brewery is used to generate a random secret added by a user everytime a request is made.
+This is a small challenge to practice the use of API's. Secrets API by the App Brewery is used to generate a random secret added by a user everytime a request is made. A request in this case is made by simply refreshing the page, and you can view the secret by hovering over the image in the middle of the page.
 
 You can create your own account / get a bearer token to write your own secrets, but that won't be part of this small challenge.
 
